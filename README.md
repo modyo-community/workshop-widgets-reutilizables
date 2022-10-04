@@ -1,2 +1,2 @@
-# workshop-widgets-reutilizables
-Creacion de widgets reutilizables en modyo
+# Reusable Widgets
+Learn how to create widgets you can use over and over again
